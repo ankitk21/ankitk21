@@ -5,6 +5,7 @@
 
 - 📫 Reach Me at **ankitkarmakar34@gmail.com**
 - My Repositories : **https://github.com/ankitk21?tab=repositories**
+- My Resume: https://drive.google.com/file/d/1fzko3CqDeZuQZEiE5xDESTLqLVTv2GzH/view?usp=share_link
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
