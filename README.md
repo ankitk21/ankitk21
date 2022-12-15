@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankit Karmakar</h1>
-<h3 align="center">Looking for an opportunity as a Data Analyst</h3>
+<h3 align="center">Looking for an opportunity as a Data Analyst / Business Analyst</h3>
 
 - 🌱 I’m currently pursuing **Full Stack Data Analytics from iNeuron.ai**
 
