@@ -5,7 +5,7 @@
 
 - 📫 Reach Me at **ankitkarmakar34@gmail.com**
 - My Repositories : **https://github.com/ankitk21?tab=repositories**
-- My Project Portfolio: www.novypro.com/profile_projects/ankitk21
+- My Project Portfolio: **www.novypro.com/profile_projects/ankitk21**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
